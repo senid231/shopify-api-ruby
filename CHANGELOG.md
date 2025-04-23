@@ -2,6 +2,7 @@
 
 Note: For changes to the API, see https://shopify.dev/changelog?filter=api
 ## Unreleased
+- [#1375](https://github.com/Shopify/shopify-api-ruby/pull/1375) add optional `ShopifyAPI::Context::httparty_params` to configure HTTP request params such as timeout, debug_output, or proxy settings.
 
 ## 14.9.0
 
